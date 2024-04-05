@@ -14,7 +14,7 @@ function App() {
 
     <main>
       <section id="about">
-        <h2>About Myself:</h2>
+        <h2>About Myself: Hello</h2>
         <p>
           Dedicated and highly motivated fullstack-developer with a Bachelor's
           degree in Applied Computer Science and foundational experience in
